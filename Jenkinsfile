@@ -17,7 +17,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo 'Running tests...'
-                sh 'python test.py'
+                bat 'python test.py'
             }
         }
     }
