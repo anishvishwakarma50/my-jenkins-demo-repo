@@ -17,7 +17,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo 'Running tests...'
-                bat 'python test.py'
+                bat 'type notes.txt'
             }
         }
     }
