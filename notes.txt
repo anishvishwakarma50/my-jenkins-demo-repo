@@ -1,3 +1,4 @@
 Meeting Agenda:
 - Build setup
 - Test automation
+-alteration done
